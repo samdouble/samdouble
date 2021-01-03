@@ -1,9 +1,13 @@
 ### Hi!
 Welcome to my Github repo!
 
-<!--
-**samdouble/samdouble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 #### Projects
-- **whizzard.io** is an online multiplayer game where the players, using a few numbers, have to find as fast as they can the sequence of operations to reach the target number. Most of the work on this project was done between June 2020 and September 2020.
+- **whizzard.io**
+Status: private
+[2020/06 - 2020/09]
+An online multiplayer game where the players, provided a few numbers, have to find as fast as they can a sequence of operations that gets them to the target number.
+
+- **loserswinbig.com**
+Status: private
+[2020/12 - ...]
+An online website that provides analytical insights to sports fans for their bets.
