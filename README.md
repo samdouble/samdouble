@@ -19,5 +19,5 @@ Hi and welcome to my GitHub repo!
 :link: [NPM](https://www.npmjs.com/package/mock-puppeteer-goto)  
 :file_folder: [Repository](https://github.com/samdouble/mock-puppeteer-goto)  
 :date: August 2021  
-:information_source: A small Node module that helps you mock a Puppeteer page's goto method.  
+:information_source: A small Node module that helps you mock a Puppeteer page's goto method for your tests.  
 :gear: Node.JS, Puppeteer, Mocha, Jest, CircleCI  
