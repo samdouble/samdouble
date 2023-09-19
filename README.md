@@ -5,7 +5,7 @@ Hi and welcome to my GitHub repo!
 :link: [Website](https://fikas.io)  
 :file_folder: [Back-end](https://github.com/samdouble/fikasio-server), [Front-end](https://github.com/samdouble/fikasio-client)  
 :date: April 2020 - ...  
-:information_source: A webapp to track progress on objectives and tasks
+:information_source: A webapp to track progress on objectives and tasks  
 :gear: Docker, TypeScript, React, Node.JS, MongoDB, CircleCI  
 :heavy_check_mark: Online, active development
 
