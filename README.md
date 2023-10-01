@@ -2,10 +2,10 @@ Hi and welcome to my GitHub repo!
 
 # Projects
 ## fikas.io
-:link:  
+:link: Links  
 [Website](https://fikas.io)  
 [App](https://app.fikas.io)  
-:file_folder:  
+:file_folder: Repos  
 [Back-end](https://github.com/samdouble/fikasio-server)  
 [Front-end](https://github.com/samdouble/fikasio-client)  
 [Website](https://github.com/samdouble/fikasio-website)  
@@ -15,9 +15,9 @@ Hi and welcome to my GitHub repo!
 :heavy_check_mark: Online, active development
 
 ## loserswinbig.com
-:link:  
+:link: Links  
 [Website](https://loserswinbig.com)  
-:file_folder:  
+:file_folder: Repos  
 [Back-end](https://github.com/samdouble/loserswinbigcom-api)  
 [Front-end](https://github.com/samdouble/loserswinbigcom-client)  
 [Scraper](https://github.com/samdouble/loserswinbig-scraper)  
@@ -27,9 +27,9 @@ Hi and welcome to my GitHub repo!
 :heavy_check_mark: Online, active development
 
 ## mock-puppeteer-goto
-:link:  
+:link: Links  
 [npm](https://www.npmjs.com/package/mock-puppeteer-goto)  
-:file_folder:  
+:file_folder: Repos  
 [Repository](https://github.com/samdouble/mock-puppeteer-goto)  
 :date: August 2021  
 :information_source: A small Node module that helps you mock a Puppeteer page's goto method for your tests.  
@@ -37,9 +37,9 @@ Hi and welcome to my GitHub repo!
 :heavy_check_mark: Deployed to npm
 
 ## whizzard.io
-:link:  
+:link: Links  
 [Website](https://whizzard.io)  
-:file_folder:  
+:file_folder: Repos  
 [Repository](https://github.com/samdouble/whizzardio)  
 :date: June 2020 - October 2020  
 :information_source: An online multiplayer game where the players, provided a few numbers, have to find as fast as they can a sequence of operations that gets them to the target number.  
