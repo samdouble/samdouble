@@ -5,7 +5,7 @@ Hi and welcome to my GitHub repo!
 :link:  
 [Website](https://fikas.io)  
 [App](https://app.fikas.io)  
-:file_folder:
+:file_folder:  
 [Back-end](https://github.com/samdouble/fikasio-server)  
 [Front-end](https://github.com/samdouble/fikasio-client)  
 [Website](https://github.com/samdouble/fikasio-website)  
@@ -17,23 +17,30 @@ Hi and welcome to my GitHub repo!
 ## loserswinbig.com
 :link:  
 [Website](https://loserswinbig.com)  
-:file_folder: [Back-end](https://github.com/samdouble/loserswinbigcom-api), [Front-end](https://github.com/samdouble/loserswinbigcom-client), [Scraper](https://github.com/samdouble/loserswinbig-scraper)  
+:file_folder:  
+[Back-end](https://github.com/samdouble/loserswinbigcom-api)  
+[Front-end](https://github.com/samdouble/loserswinbigcom-client)  
+[Scraper](https://github.com/samdouble/loserswinbig-scraper)  
 :date: December 2020 - ...  
 :information_source: A website that provides analytical insights to MMA fans for their bets on upcoming events.  
 :gear: Docker, TypeScript, React, Node.JS, MongoDB, CircleCI  
 :heavy_check_mark: Online, active development
 
 ## mock-puppeteer-goto
-:link: [npm](https://www.npmjs.com/package/mock-puppeteer-goto)  
-:file_folder: [Repository](https://github.com/samdouble/mock-puppeteer-goto)  
+:link:  
+[npm](https://www.npmjs.com/package/mock-puppeteer-goto)  
+:file_folder:  
+[Repository](https://github.com/samdouble/mock-puppeteer-goto)  
 :date: August 2021  
 :information_source: A small Node module that helps you mock a Puppeteer page's goto method for your tests.  
 :gear: Node.JS, Puppeteer, Mocha, Jest, CircleCI  
 :heavy_check_mark: Deployed to npm
 
 ## whizzard.io
-:link: [Website](https://whizzard.io)  
-:file_folder: [Repository](https://github.com/samdouble/whizzardio)  
+:link:  
+[Website](https://whizzard.io)  
+:file_folder:  
+[Repository](https://github.com/samdouble/whizzardio)  
 :date: June 2020 - October 2020  
 :information_source: An online multiplayer game where the players, provided a few numbers, have to find as fast as they can a sequence of operations that gets them to the target number.  
 :gear: Docker, React, Node.JS, MongoDB, TravisCI  
