@@ -2,15 +2,21 @@ Hi and welcome to my GitHub repo!
 
 # Projects
 ## fikas.io
-:link: [Website](https://fikas.io)  
-:file_folder: [Back-end](https://github.com/samdouble/fikasio-server), [Front-end](https://github.com/samdouble/fikasio-client)  
+:link:  
+[Website](https://fikas.io)  
+[App](https://app.fikas.io)  
+:file_folder:
+[Back-end](https://github.com/samdouble/fikasio-server)  
+[Front-end](https://github.com/samdouble/fikasio-client)  
+[Website](https://github.com/samdouble/fikasio-website)  
 :date: April 2020 - ...  
 :information_source: A webapp to track progress on objectives and tasks  
 :gear: Docker, TypeScript, React, Node.JS, MongoDB, CircleCI  
 :heavy_check_mark: Online, active development
 
 ## loserswinbig.com
-:link: [Website](https://loserswinbig.com)  
+:link:  
+[Website](https://loserswinbig.com)  
 :file_folder: [Back-end](https://github.com/samdouble/loserswinbigcom-api), [Front-end](https://github.com/samdouble/loserswinbigcom-client), [Scraper](https://github.com/samdouble/loserswinbig-scraper)  
 :date: December 2020 - ...  
 :information_source: A website that provides analytical insights to MMA fans for their bets on upcoming events.  
