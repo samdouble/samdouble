@@ -2,22 +2,24 @@ Hi and welcome to my GitHub repo!
 
 # Projects
 ## fikas.io
-:link: Links  
+:link: **Links**  
 [Website](https://fikas.io)  
 [App](https://app.fikas.io)  
-:file_folder: Repos  
+:file_folder: **Repos**  
 [Back-end](https://github.com/samdouble/fikasio-server)  
 [Front-end](https://github.com/samdouble/fikasio-client)  
 [Website](https://github.com/samdouble/fikasio-website)  
+[React UI Components](https://github.com/samdouble/fikasio-react-ui-components)  
+[Daily newsletter for users](https://github.com/samdouble/fikasio-usernews)  
 :date: April 2020 - ...  
 :information_source: A webapp to track progress on objectives and tasks  
 :gear: Docker, TypeScript, React, Node.JS, MongoDB, CircleCI  
 :heavy_check_mark: Online, active development
 
 ## loserswinbig.com
-:link: Links  
+:link: **Links**  
 [Website](https://loserswinbig.com)  
-:file_folder: Repos  
+:file_folder: **Repos**  
 [Back-end](https://github.com/samdouble/loserswinbigcom-api)  
 [Front-end](https://github.com/samdouble/loserswinbigcom-client)  
 [Scraper](https://github.com/samdouble/loserswinbig-scraper)  
