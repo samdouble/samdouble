@@ -1,6 +1,22 @@
 Hi and welcome to my GitHub repo!
 
 # Projects
+
+## binoqlars.com
+:link: **Links**  
+[Website](https://binoqlars.com)  
+[App](https://app.binoqlars.com)  
+:file_folder: **Repos**  
+[Back-end](https://github.com/samdouble/binoqlars-server)  
+[Front-end](https://github.com/samdouble/binoqlars-client)  
+[Website](https://github.com/samdouble/binoqlars-website)  
+[Validator Lambda](https://github.com/samdouble/binoqlars-schema-analyzer)  
+[Invoker Lambda](https://github.com/samdouble/binoqlars-invoker)  
+:date: December 2023 - ...  
+:information_source: A webapp to automate database objects validation  
+:gear: Docker, TypeScript, React, Node.JS, MongoDB, Python, CircleCI, AWS Lambda  
+:heavy_check_mark: Online, active development
+
 ## fikas.io
 :link: **Links**  
 [Website](https://fikas.io)  
@@ -13,7 +29,7 @@ Hi and welcome to my GitHub repo!
 [Daily newsletter for users](https://github.com/samdouble/fikasio-usernews)  
 :date: April 2020 - ...  
 :information_source: A webapp to track progress on objectives and tasks  
-:gear: Docker, TypeScript, React, Node.JS, MongoDB, CircleCI  
+:gear: Docker, TypeScript, React, Node.JS, MongoDB, CircleCI, AWS Lambda  
 :heavy_check_mark: Online, active development
 
 ## loserswinbig.com
