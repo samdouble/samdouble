@@ -14,7 +14,7 @@ Hi and welcome to my GitHub repo!
 [Invoker Lambda](https://github.com/samdouble/binoqlars-invoker)  
 :date: December 2023 - ...  
 :information_source: A webapp to automate database objects validation  
-:gear: Docker, TypeScript, React, Node.JS, MongoDB, Python, CircleCI, AWS Lambda  
+:gear: Docker, TypeScript, React, Node.js, MongoDB, Python, CircleCI, AWS Lambda  
 :heavy_check_mark: Online, active development
 
 ## fikas.io
@@ -29,7 +29,7 @@ Hi and welcome to my GitHub repo!
 [Daily newsletter for users](https://github.com/samdouble/fikasio-usernews)  
 :date: April 2020 - ...  
 :information_source: A webapp to track progress on objectives and tasks  
-:gear: Docker, TypeScript, React, Node.JS, MongoDB, CircleCI, AWS Lambda  
+:gear: Docker, TypeScript, React, Node.js, MongoDB, CircleCI, AWS Lambda  
 :heavy_check_mark: Online, active development
 
 ## loserswinbig.com
@@ -41,7 +41,7 @@ Hi and welcome to my GitHub repo!
 [Scraper](https://github.com/samdouble/loserswinbig-scraper)  
 :date: December 2020 - ...  
 :information_source: A website that provides analytical insights to MMA fans for their bets on upcoming events.  
-:gear: Docker, TypeScript, React, Node.JS, MongoDB, CircleCI  
+:gear: Docker, TypeScript, React, Node.js, MongoDB, CircleCI  
 :heavy_check_mark: Online, active development
 
 ## mock-puppeteer-goto
@@ -51,7 +51,7 @@ Hi and welcome to my GitHub repo!
 [Repository](https://github.com/samdouble/mock-puppeteer-goto)  
 :date: August 2021  
 :information_source: A small Node module that helps you mock a Puppeteer page's goto method for your tests.  
-:gear: Node.JS, Puppeteer, Mocha, Jest, CircleCI  
+:gear: Node.js, Puppeteer, Mocha, Jest, CircleCI  
 :heavy_check_mark: Deployed to npm
 
 ## whizzard.io
