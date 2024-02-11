@@ -11,7 +11,7 @@ Hi and welcome to my GitHub repo!
 [Front-end](https://github.com/samdouble/binoqlars-client)  
 [Website](https://github.com/samdouble/binoqlars-website)  
 [Schema Validator Lambda](https://github.com/samdouble/binoqlars-schema-analyzer)  
-[Schema Validator Invoker Lambda](https://github.com/samdouble/binoqlars-schema-analyzer-invoker)
+[Schema Validator Invoker Lambda](https://github.com/samdouble/binoqlars-schema-analyzer-invoker)  
 [Check Validator for Python Lambda](https://github.com/samdouble/binoqlars-check-validator-python)  
 :date: December 2023 - ...  
 :information_source: A webapp to automate database objects validation  
