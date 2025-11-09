@@ -23,9 +23,7 @@ Hi and welcome to my GitHub repo!
 [Website](https://fikas.io)  
 [App](https://app.fikas.io)  
 :file_folder: **Repos**  
-[Back-end](https://github.com/samdouble/fikasio-server)  
-[Front-end](https://github.com/samdouble/fikasio-client)  
-[Website](https://github.com/samdouble/fikasio-website)  
+[Main repo](https://github.com/samdouble/fikasio)  
 [React UI Components](https://github.com/samdouble/fikasio-react-ui-components)  
 [Daily newsletter for users](https://github.com/samdouble/fikasio-usernews)  
 :date: April 2020 - ...  
