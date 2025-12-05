@@ -2,22 +2,6 @@ Hi and welcome to my GitHub repo!
 
 # Projects
 
-## binoqlars.com
-:link: **Links**  
-[Website](https://binoqlars.com)  
-[App](https://app.binoqlars.com)  
-:file_folder: **Repos**  
-[Back-end](https://github.com/samdouble/binoqlars-server)  
-[Front-end](https://github.com/samdouble/binoqlars-client)  
-[Website](https://github.com/samdouble/binoqlars-website)  
-[Schema Validator Lambda](https://github.com/samdouble/binoqlars-schema-analyzer)  
-[Schema Validator Invoker Lambda](https://github.com/samdouble/binoqlars-schema-analyzer-invoker)  
-[Check Validator for Python Lambda](https://github.com/samdouble/binoqlars-check-validator-python)  
-:date: December 2023 - ...  
-:information_source: A webapp to automate database objects validation  
-:gear: Docker, TypeScript, React, Node.js, MongoDB, Python, CircleCI, AWS Lambda  
-:heavy_check_mark: Online, active development
-
 ## fikas.io
 :link: **Links**  
 [Website](https://fikas.io)  
