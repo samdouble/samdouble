@@ -27,14 +27,14 @@ Hi and welcome to my GitHub repo!
 :gear: Docker, TypeScript, React, Node.js, MongoDB, CircleCI  
 :heavy_check_mark: Online, active development
 
-## mock-puppeteer-goto
+## mock-goto
 :link: Links  
-[npm](https://www.npmjs.com/package/mock-puppeteer-goto)  
+[npm](https://www.npmjs.com/package/mock-goto)  
 :file_folder: Repos  
-[Repository](https://github.com/samdouble/mock-puppeteer-goto)  
+[Repository](https://github.com/samdouble/mock-goto)  
 :date: August 2021  
-:information_source: A small Node module that helps you mock a Puppeteer page's goto method for your tests.  
-:gear: Node.js, Puppeteer, Mocha, Jest, CircleCI  
+:information_source: A module to mock a Playwright or Puppeteer page's goto method.  
+:gear: Node.js, Playwright Puppeteer, Mocha, Jest  
 :heavy_check_mark: Deployed to npm
 
 ## whizzard.io
