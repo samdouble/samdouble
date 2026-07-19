@@ -19,9 +19,7 @@ Hi and welcome to my GitHub repo!
 :link: **Links**  
 [Website](https://loserswinbig.com)  
 :file_folder: **Repos**  
-[Back-end](https://github.com/samdouble/loserswinbigcom-api)  
-[Front-end](https://github.com/samdouble/loserswinbigcom-client)  
-[Scraper](https://github.com/samdouble/loserswinbig-scraper)  
+[Main repo](https://github.com/samdouble/loserswinbigcom)  
 :date: December 2020 - ...  
 :information_source: A website that provides analytical insights to MMA fans for their bets on upcoming events.  
 :gear: Docker, TypeScript, React, Node.js, MongoDB, CircleCI  
