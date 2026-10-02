@@ -1,4 +1,4 @@
-Hi and welcome to my GitHub repo!
+Hi and welcome to my GitHub!
 
 # Projects
 
